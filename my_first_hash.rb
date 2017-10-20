@@ -1,6 +1,6 @@
 def my_hash
   food = {
-    "bread" => 3
+    "bread" => 3,
     "cheese" => 2
   }
 end
