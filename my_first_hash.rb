@@ -15,8 +15,10 @@ end
 
 def retrieval(shipping_manifest)
   shipping_manifest["oil paintings"]
+  return shipping_manifest
 end
 
 def adding(shipping_manifest)
   shipping_manifest["pearl necklace"] = 1
+  return shipping_manifest
 end
