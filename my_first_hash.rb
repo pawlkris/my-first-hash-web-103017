@@ -17,7 +17,7 @@ def retrieval
   return shipping_manifest["oil paintings"]
 end
 
-def adding(shipping_manifest)
+def adding
   shipping_manifest["pearl necklace"] = 1
   return shipping_manifest
 end
